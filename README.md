@@ -1,1 +1,1 @@
-# vulkanslots.-github.io
+# vulkanslots.github.io
